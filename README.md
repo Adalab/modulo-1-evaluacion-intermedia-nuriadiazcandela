@@ -1,5 +1,4 @@
 # Creando Diversidad Digital
-***
 
 Módulo 1 Evaluación Intermedia
 
